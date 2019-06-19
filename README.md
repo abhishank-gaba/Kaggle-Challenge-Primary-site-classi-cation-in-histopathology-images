@@ -7,4 +7,4 @@ I identified different tissue patterns from different primary sites (lung, kidne
 ovary) by building a convolutional neural network, leading to an accuracy of 80.20% on unseen test data.
 
 Implementation details are provided in the pdf file located in this repository.
-File name: "Implementation_Details.pdf"
+File name: "Implementation_Explanation.pdf"
